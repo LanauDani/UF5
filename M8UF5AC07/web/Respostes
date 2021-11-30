@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Respuestas</title>
+</head>
+<body>
+    <h1>Trivial El señor de los Anillos</h1>  
+    <ul>      
+            
+            <p id="Respuesta1"><li>Cuantos anillos de poder tenian cada raza?</li></p>
+            <img src="../img/01 Anillo unico.jpeg">
+            <hr> 19 20 22</hr>  
+            <p><li><a href="../M8UF5AC07_dlanau.htm"> Volver</a></li></p>
+            <p>&#160</p>
+            <p>&#160</p>
+            <p>&#160</p>
+            <p>&#160</p>
+            <p>&#160</p>  
+            <p>&#160</p>
+            <p>&#160</p>
+            <p>&#160</p>
+            <p>&#160</p>
+            <p>&#160</p>
+            <p>&#160</p>
+            <p>&#160</p>
+            <p>&#160</p>
+            <p>&#160</p>
+            <p>&#160</p>
+            <p>&#160</p>
+            <p id="Respuesta2"><li>Cuantos personajes componian la comunidad del anillo?</li></p>
+            <img src="../img/02 comunidad.jpeg">
+            <hr> 6 8 9</hr>
+            <p><li><a href="../M8UF5AC07_dlanau.htm"> Volver</a></li></p>
+            <p>&#160</p>
+            <p>&#160</p>
+            <p>&#160</p>
+            <p>&#160</p>
+            <p>&#160</p>  
+            <p>&#160</p>
+            <p>&#160</p>
+            <p>&#160</p>
+            <p>&#160</p>
+            <p>&#160</p>
+            <p>&#160</p>
+            <p>&#160</p>
+            <p>&#160</p>
+            <p>&#160</p>
+            <p>&#160</p>
+            <p>&#160</p>
+            <p id="Respuesta3"><li>En que ciudad estaba coronado en lo alto con un arbol blanco?</li></p>
+            <img src="../img/03 gondor.jpeg">
+            <hr> Gondor Rivendrell La Comarca
+            <p><li><a href="../M8UF5AC07_dlanau.htm"> Volver</a></li></p>
+            <p>&#160</p>
+            <p>&#160</p>
+            <p>&#160</p>
+            <p>&#160</p>
+            <p>&#160</p>  
+            <p>&#160</p>
+            <p>&#160</p>
+            <p>&#160</p>
+            <p>&#160</p>
+            <p>&#160</p>
+            <p>&#160</p>
+            <p>&#160</p>
+            <p>&#160</p>
+            <p>&#160</p>
+            <p>&#160</p>
+            <p>&#160</p>         
+            <p id="Respuesta4"><li> Con que gran enemigo se encontraron en las Minas de Moria?</li></p>    
+            <img src="../img/04 índex.jpeg">
+            <hr> Pugi Gollum Troll de las Cavernas
+            <p><li><a href="../M8UF5AC07_dlanau.htm"> Volver</a></li></p>
+            <p>&#160</p>
+            <p>&#160</p>
+            <p>&#160</p>
+            <p>&#160</p>
+            <p>&#160</p>  
+            <p>&#160</p>
+            <p>&#160</p>
+            <p>&#160</p>
+            <p>&#160</p>
+            <p>&#160</p>
+            <p>&#160</p>
+            <p>&#160</p>
+            <p>&#160</p>
+            <p>&#160</p>
+            <p>&#160</p>
+            <p>&#160</p>         
+            <p id="Respuesta5"><li>Como se llamaba la espada que heredo Frodo de su tio?</li></p>        
+            <img src="../img/05-images.png">
+            <hr> Dardo Aguja Moustacho
+            <p><li><a href="../M8UF5AC07_dlanau.htm"> Volver</a></li></p>
+            <p>&#160</p>
+            <p>&#160</p>
+            <p>&#160</p>
+            <p>&#160</p>
+            <p>&#160</p>  
+            <p>&#160</p>
+            <p>&#160</p>
+            <p>&#160</p>
+            <p>&#160</p>
+            <p>&#160</p>
+            <p>&#160</p>
+            <p>&#160</p>
+            <p>&#160</p>
+            <p>&#160</p>
+            <p>&#160</p>
+            <p>&#160</p>            
+            <p id="Respuesta6"><li>Quien ayudo a Frodo y Sam en las ruinas de Oshgiliath</li></p>        
+            <img src="../img/06 Osgiliathjpeg">
+            <hr> Papa Noel Harry Potter Faramir
+            <p><li><a href="../M8UF5AC07_dlanau.htm"> Volver</a></li></p>
+            <a href="#Respuesta1"><img src="../img/Arrow up.png" width="150" height="150"></a>
+    </ul>    
+    </body>    
